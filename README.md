@@ -1,2 +1,4 @@
 # NLP
-For NLP Practice
+For NLP Practice --- 
+
+1. Language Processing and Python
